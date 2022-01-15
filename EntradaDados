@@ -1,3 +1,5 @@
 js_nome = document.FormConcatena.f_nome.value;
 
 js_sobrenome = document.FormConcatena.f_sobrenome.value;
+
+js_nomecompleto = js_nome + ' ' + js_sobrenome;
