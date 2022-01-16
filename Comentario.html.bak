@@ -19,7 +19,7 @@
 			js_nome = window.prompt('Entre com seu nome: ' , 'Digite seu nome nesta caixa');
 				
 			/* Saida de Dados */
-			document.weite('Ol\u00e1 ' + js_nome + ' Seja Bem Vindo!');//Mensagem
+			document.weite('Ol\u00e1 ' + js_nome + ' Seja Bem Vindo!');//Mensagem de Saudação
 			//-->
 		</script>
 	</body>
